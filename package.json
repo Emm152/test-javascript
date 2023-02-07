@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de prueba de ES6  para node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emm152/test-javascript.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emm152/test-javascript/issues"
+  },
+  "homepage": "https://github.com/Emm152/test-javascript#readme"
+}
